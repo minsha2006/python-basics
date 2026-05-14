@@ -1,0 +1,4 @@
+Student Details
+Name: C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\python.exe "c:/Users/LENOVO/Ai Ml Internship/file read.py"
+Age: C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\python.exe "c:/Users/LENOVO/Ai Ml Internship/file eppend.py"
+Marks: git add --all
